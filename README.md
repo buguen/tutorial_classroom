@@ -1,7 +1,7 @@
 About
 =====
 
-This is the tutorial classroom package developed in http://github.com/pelon/euroscipy2014_tutorial.
+This is the tutorial classroom package developed in http://github.com/pelson/lessons_for_a_scientific_programmer. 
 
 The "classroom" package is a simple interface to a collection of YAML files containing the names of groups within the tutorial.
 These groups will have been submitted by the attendees of the tutorial.
